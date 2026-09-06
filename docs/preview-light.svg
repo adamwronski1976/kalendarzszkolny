@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">School Agenda Card preview</title><desc id="desc">A light Home Assistant school agenda card with lessons, calendar events and tasks.</desc>
+  <rect width="800" height="500" rx="24" fill="#f4f6f8"/><rect x="80" y="45" width="640" height="410" rx="18" fill="#fff" stroke="#d7dce2"/>
+  <text x="120" y="98" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#202124">School agenda</text>
+  <line x1="120" y1="120" x2="680" y2="120" stroke="#e2e5e9"/>
+  <text x="120" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#202124">Friday, 6 September</text>
+  <text x="120" y="193" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#697386">LESSON PLAN</text>
+  <rect x="120" y="208" width="5" height="48" rx="2" fill="#009688"/><text x="140" y="230" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#202124">Mathematics</text><text x="140" y="249" font-family="Arial, sans-serif" font-size="14" fill="#697386">08:00 – 08:45</text>
+  <text x="120" y="289" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#697386">TASKS</text>
+  <circle cx="132" cy="314" r="9" fill="none" stroke="#697386" stroke-width="2"/><text x="153" y="320" font-family="Arial, sans-serif" font-size="16" fill="#202124">Finish biology homework</text>
+  <line x1="120" y1="348" x2="680" y2="348" stroke="#e2e5e9"/><text x="120" y="385" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#202124">Monday, 9 September</text>
+  <text x="120" y="417" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#697386">LESSON PLAN</text><rect x="120" y="430" width="5" height="18" rx="2" fill="#009688"/><text x="140" y="445" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#202124">Polish language</text>
+</svg>
+

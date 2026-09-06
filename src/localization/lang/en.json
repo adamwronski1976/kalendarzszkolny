@@ -1,0 +1,32 @@
+{
+    "noEvents": {
+        "title": "No events scheduled",
+        "subtitle": "Do something nice"
+    },
+    "event": {
+        "schedule": {
+            "from": "From",
+            "until": "Until"
+        }
+    },
+    "config": {
+        "stub": {
+            "title": "Today's Schedule"
+        },
+        "label": {
+            "advance": "Advance",
+            "clear": "Clear",
+            "color": "Color",
+            "content": "Content",
+            "entities": "Entities",
+            "fallback_color": "Fallback Color",
+            "interactions": "Interactions",
+            "show_all_day_events": "Show all day events",
+            "show_past_events": "Show past events",
+            "limit": "Max. number of events",
+            "tap_action": "Tap behavior",
+            "time_format": "Time Display Format",
+            "title": "Title"
+        }
+    }
+}

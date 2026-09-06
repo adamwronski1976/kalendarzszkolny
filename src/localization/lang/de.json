@@ -1,0 +1,32 @@
+{
+    "noEvents": {
+        "title": "Keine Termine geplant",
+        "subtitle": "Mach was Schönes"
+    },
+    "event": {
+        "schedule": {
+            "from": "Ab",
+            "until": "Bis"
+        }
+    },
+    "config": {
+        "stub": {
+            "title": "Heutiger Terminplan"
+        },
+        "label": {
+            "advance": "Vorlauf",
+            "clear": "Entfernen",
+            "color": "Farbe",
+            "content": "Inhalt",
+            "entities": "Entitäten",
+            "fallback_color": "Standard-Farbe",
+            "interactions": "Interaktionen",
+            "show_all_day_events": "Zeige ganztägige Termine",
+            "show_past_events": "Zeige vergangene Termine",
+            "limit": "Max. Anzahl Termine",
+            "tap_action": "Verhalten beim Antippen",
+            "time_format": "Zeitformat",
+            "title": "Titel"
+        }
+    }
+}

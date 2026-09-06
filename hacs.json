@@ -1,0 +1,7 @@
+{
+    "name": "School Agenda Card",
+    "content_in_root": false,
+    "filename": "ha-today-card.js",
+    "homeassistant": "2025.2.0",
+    "hacs": "2.0.0"
+}

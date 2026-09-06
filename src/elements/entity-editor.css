@@ -1,0 +1,49 @@
+.entity {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.details {
+    flex: 1 1 auto;
+    margin-right: 16px;
+    min-width: 0;
+}
+
+.name {
+    display: block;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*noinspection CssUnresolvedCustomProperty*/
+.id {
+    display: block;
+    color: var(--secondary-text-color);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.color-picker {
+    flex: 0;
+    margin-right: 16px;
+}
+
+/*noinspection CssUnresolvedCustomProperty*/
+.remove-icon {
+    flex: 0;
+    --mdc-icon-button-size: 36px;
+    color: var(--secondary-text-color);
+}
+
+.schedule-toggle {
+    display: flex;
+    align-items: center;
+    font-size: 0.8rem;
+    gap: 4px;
+    margin-right: 12px;
+    white-space: nowrap;
+}
